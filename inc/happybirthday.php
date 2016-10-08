@@ -56,7 +56,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 						<div class="opacityzero" id="typo">
 							<h1 class="title">HappyBirthDay, Arisu! 2016</h1>
 							<h2 class="subtitle">We wish you continued success!</h2>
-							<p style="font-family:Meiryo,sans-serif;">2016年のお誕生日は終了しました。ありすちゃんの更なる活躍を期待して。<br>2016 strawberry-pasta(@motitaiyaki)</p>
+							<p style="font-family:Meiryo,sans-serif;">2016年のお誕生日は終了しました。ありすちゃんの更なる活躍を期待して。<br>2016 strawberry-pasta</p>
 						</div>
 						<br>
 						<p id="tbtn" class="opacityzero">
@@ -72,7 +72,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 					<div class="content has-text-centered">
 						<p class="opacityzero" id="copyright">The cake animation forked from new cake (http://codepen.io/fixcl/pen/bsIhn). Thanks. <br>
 						All copyrights belong to their respective owners.<br>
-						Copyright &copy; 2016 strawberry-pasta(@motitaiyaki) Some Rights Reserved.<br>
+						Copyright &copy; 2016 strawberry-pasta Some Rights Reserved.<br>
 						&nbsp;</p>
 					</div>
 				</nav>
