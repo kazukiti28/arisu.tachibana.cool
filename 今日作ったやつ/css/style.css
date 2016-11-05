@@ -1,0 +1,61 @@
+body {
+    font-family: "Source Sans Pro","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic ProNfont-family: Arial, Roboto, “Droid Sans”, “游ゴシック”, YuGothic, “ヒラギノ角ゴ ProN W3”, “Hiragino Kaku Gothic ProN”, “メイリオ”, Meiryo, sans-serif;", "メイリオ", Meiryo,"ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    font-size: 16px;
+    background: -moz-linear-gradient(top,#29b6f6,#81d4fa);
+    background: -webkit-gradient(linear,left top,left bottom,from(#29b6f6),to(#81d4fa));
+}
+html{
+	height: 100%;
+}
+#main{
+	margin-top: 20%;
+	position: relative
+}
+.box{
+	display: block;
+ 	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+ 	width: 35%;
+ 	position: absolute
+}
+ .crack{
+	display: block;
+ 	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+ 	width: 20%;
+ 	position: absolute
+}
+.flipcrack{
+	display: block;
+ 	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+ 	width: 20%;
+ 	position: absolute
+}
+#ichigo {
+ 	position: relative;
+ 	margin: 0 auto;
+}
+#ni .img{
+	width:20%
+}
+.imgwrap{
+	text-align: center;/*苦渋の選択*/	
+	margin-top: 4%
+}
+.title{
+	width:52%;
+	margin-bottom:2%;
+}
