@@ -1,5 +1,5 @@
 body {
-    font-family: "Source Sans Pro","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic ProNfont-family: Arial, Roboto, “Droid Sans”, “游ゴシック”, YuGothic, “ヒラギノ角ゴ ProN W3”, “Hiragino Kaku Gothic ProN”, “メイリオ”, Meiryo, sans-serif;", "メイリオ", Meiryo,"ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-family: "a-otf-ud-shin-maru-go-pr6n","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic ProNfont-family: Arial, Roboto, “Droid Sans”, “游ゴシック”, YuGothic, “ヒラギノ角ゴ ProN W3”, “Hiragino Kaku Gothic ProN”, “メイリオ”, Meiryo, sans-serif;", "メイリオ", Meiryo,"ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
     margin-right: auto;
     margin-left: auto;
     margin-top: 0px;
@@ -56,6 +56,7 @@ html{
 	margin-top: 4%
 }
 .title{
-	width:52%;
+	
 	margin-bottom:2%;
+	font-size: 40px;
 }
